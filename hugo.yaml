@@ -1,0 +1,8 @@
+baseURL: 'https://example.org/'
+locale: 'en-us'
+title: 'Tasmanian University Mountaineering Club'
+theme: ['PaperMod']
+params:
+  disableThemeToggle: true
+  defaultTheme: 'light'
+  sectionPagesMenu: 'main'
