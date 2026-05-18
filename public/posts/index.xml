@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Tasmanian University Mountaineering Club</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tasmanian University Mountaineering Club</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 May 2026 15:54:26 +1000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>http://localhost:1313/posts/test/</link>
+      <pubDate>Mon, 18 May 2026 15:54:26 +1000</pubDate>
+      <guid>http://localhost:1313/posts/test/</guid>
+      <description>&lt;p&gt;this is me testing&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
